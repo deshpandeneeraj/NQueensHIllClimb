@@ -1,8 +1,8 @@
 """
 @Author : Neeraj Deshpande
  Date: 2 May 2020
-@GitHub ID : hidemefast07
- GitHub Link : https://github.com/hidemefast07/NQueensHIllClimb
+@GitHub ID : deshpandeneeraj
+ GitHub Link : https://github.com/deshpandeneeraj/NQueensHIllClimb
 """
 
 import random
